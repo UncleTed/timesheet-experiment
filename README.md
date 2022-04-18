@@ -35,7 +35,8 @@ End of the day is 5:00 pm
     1. A csv file named for the friday of the week. (e.g. 2022_01_21.csv)
     1. Columns :
       - Date
+      - Day of week
       - Time
-      - project name
-      - story card number 
+      - Project name
+      - Story card number 
 
