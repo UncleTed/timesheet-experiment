@@ -26,9 +26,11 @@ End of the day is 5:00 pm
 
 
 ## Extended commands
-`ts monday 830 snappy 123`
+`ts monday 830 snappy 123`  - If it's Tuesday and I forgot to enter something on Monday
 
-
+## Summary commands
+`ts -s --summary` 
+ Pivot table and display the results?
 
 ## Backing store - data storage 
 
@@ -39,4 +41,14 @@ End of the day is 5:00 pm
       - Time
       - Project name
       - Story card number 
+      
 
+## What to work on next
+  1. If there is nothing on sys.argv, print out the current timesheet
+  1. Capitalize the project name
+
+
+## Done
+  1. Switch to getopt so I can get the data as sys.argv
+  1. Sort the CSV when writing it out
+  
