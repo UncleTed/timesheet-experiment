@@ -51,4 +51,7 @@ End of the day is 5:00 pm
 ## Done
   1. Switch to getopt so I can get the data as sys.argv
   1. Sort the CSV when writing it out
+
+# Bibliography
+https://medium.com/analytics-vidhya/pandas-pivot-table-with-examples-c174501fa9a1
   
